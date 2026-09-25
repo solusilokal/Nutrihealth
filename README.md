@@ -2,6 +2,9 @@
 
 Website landing page interaktif & mobile-first untuk **Nutrihealth** (Layanan Konselor Gizi & Dietisien Profesional di Palangka Raya). Dilengkapi dengan ringkasan profil, jadwal klinik & online, katalog paket konsultasi gizi (Weight Management, Gizi Klinis & Medis, Sports Nutrition, Gizi Ibu & Anak), galeri foto interaktif dengan lightbox, testimoni klien, FAQ akordeon, form booking WhatsApp otomatis, dan tombol bagikan profil.
 
+- **🌐 Live Demo (GitHub Pages):** [https://solusilokal.github.io/Nutrihealth/](https://solusilokal.github.io/Nutrihealth/)
+- **📁 GitHub Repository:** [https://github.com/solusilokal/Nutrihealth](https://github.com/solusilokal/Nutrihealth)
+
 ---
 
 ## 🚀 Cara Menjalankan & Preview
