@@ -35,6 +35,8 @@ jasa konselor gizi/
 ├── public/
 │   ├── Gemini_Generated_Image_7kruip7kruip7kru.jpg   # Gambar hero banner
 │   ├── logo-nutrihealth.png                          # Logo resmi Nutrihealth
+│   ├── gambarSEO.jpg                                 # Banner preview SEO (kompresi <100KB untuk WhatsApp)
+│   ├── gambarSEO.png                                 # Banner preview SEO resolusi asli
 │   ├── galeri-1.webp                                 # Foto galeri: Konsultasi Meal Plan
 │   ├── galeri-2.webp                                 # Foto galeri: Edukasi Gizi Isi Piringku
 │   ├── galeri-3.webp                                 # Foto galeri: Pendampingan Sports Nutrition
@@ -47,6 +49,7 @@ jasa konselor gizi/
 ├── dist/                                            # Hasil kompilasi siap deploy
 ├── standalone.html                                  # File mandiri (bisa dibuka langsung via double-click)
 ├── preview.bat                                      # Script launcher 1-klik untuk Windows
+├── deploy_github.bat                                # Script deploy 1-klik ke GitHub
 ├── index.html                                       # File HTML utama untuk Vite
 ├── package.json                                     # Konfigurasi dependensi npm
 ├── vite.config.js                                   # Konfigurasi Vite server & build
@@ -55,6 +58,8 @@ jasa konselor gizi/
 ├── build_standalone.cjs                             # Script bundler untuk generate standalone.html
 ├── Gemini_Generated_Image_7kruip7kruip7kru.jpg       # Gambar hero banner (root)
 ├── logo-nutrihealth.png                             # Logo resmi Nutrihealth (root)
+├── gambarSEO.jpg                                    # Banner preview SEO (root)
+├── gambarSEO.png                                    # Banner preview SEO resolusi asli (root)
 ├── galeri-1.webp s/d galeri-5.webp                  # Foto galeri resolusi optimal (root)
 └── nutrihealth_landing_page.tsx                     # File source code asli
 ```
